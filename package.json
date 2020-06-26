@@ -1,0 +1,17 @@
+{
+  "name": "clockangle",
+  "version": "1.0.0",
+  "description": "API to find the angle between the hands of a clock",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Brian Chance",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^8.0.1"
+  }
+}
